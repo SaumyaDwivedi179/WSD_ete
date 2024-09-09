@@ -1,0 +1,21 @@
+[
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+        "origin": "Greece",
+        "description": "Native to the Greek islands...",
+        "life_span": "9-12",
+        "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+        "origin": "United States",
+        "description": "Bengal cats are large, sleek...",
+        "life_span": "12-16",
+        "url": "https://cdn2.thecatapi.com/images/H1IS2Y-pm.jpg"
+    }
+
+]

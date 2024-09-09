@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Breeds</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <h1>Cat Lovers Club</h1>
+    </header>
+    <div class="back">
+
+    </div>
+
+    <section id="random-cat">
+       <h2>Fetch a Random Cat Breed Image</h2>
+       <div class="catbutton"><button id="fetch-cat-btn">Fetch Cat Image</button></div>
+       <div class="image">  <img id="cat-image" alt="Random Cat Breed" src="" ></div>
+    </section>
+
+    <section id="registration">
+        <h2>Sign Up for Cat Lovers Club</h2>
+       <div class="sform"> <form id="registrationform">
+            <label>Enter Full Name
+            <input type="text" id="fullname" placeholder="for ex: anna" required />
+            <label>Enter valid Email
+            <input type="email" id="email" placeholder="abc123@.." required /></label>
+            <label>Enter Password
+            <input type="password" id="password" placeholder="password" required /></label>
+             <label>Confirm Password
+            <input type="password" id="confirmpassword" placeholder="Confirm Password" required /></label>
+            <label>Enter Date of Birth
+            <input type="date" id="dob" placeholder="Enter date of birth" required /></label>
+            <span id="doberror"></span>
+
+            <button type="submit" id="submitbtn">Sign Up</button>
+        </form>
+        </div>
+    </section>
+
+    <footer>
+        <a href="hero.html"><p>About Us | Contact</p></a>
+    </footer>
+
+    <script src="script.js"></script> 
+    <script src="script1.js"></script> 
+</body>
+</html>

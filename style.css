@@ -1,0 +1,28 @@
+body,html{
+    margin 0;
+    background-color: antiquewhite;
+
+}
+/* .back{
+    background: url("./cat.jpg");
+    background-size: cover;
+    background-position: fixed;
+} */
+ .image{
+    height:100%;
+    width:100%;
+    
+ }
+ .catbutton{
+    padding-bottom: 20px;
+
+ }
+ .catbutton>button{
+    background-color: brown;
+    color: antiquewhite;
+    border: 0.5px solid white;
+ }
+ #registrationform{
+    display: flex;
+    flex-direction: column;
+ }
