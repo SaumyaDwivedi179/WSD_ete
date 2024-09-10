@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Function to fetch and display breed information
     const fetchBreedInfo = async () => {
         try {
-            const response = await fetch('cat-breeds.json');
+            const response = await fetch('https://saumyadwivedi179.github.io/WSD_ete/cat-breeds.json');
             const breeds = await response.json();
 
             breedContainer.innerHTML = ''; // Clear existing content
