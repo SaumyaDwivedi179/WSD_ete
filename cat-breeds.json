@@ -1,0 +1,56 @@
+[
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+        "origin": "Greece",
+        "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+        "life_span": "9-12",
+        "url": "pexels-catscoming-1543793.jpg"
+    },
+    {
+        "id": "bali",
+        "name": "Bali",
+        "temperament": "Affectionate, Social, Intelligent, Playful",
+        "origin": "United States",
+        "description": "The Bali is a long-haired breed developed from the Balinese, with a graceful, elegant appearance. They are known for their vocal nature and are highly affectionate towards their owners.",
+        "life_span": "12-16",
+        "url": "pexels-francesco-ungaro-96938.jpg"
+    },
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "temperament": "Active, Alert, Confident, Curious",
+        "origin": "United States",
+        "description": "Bengals are known for their wild appearance, resembling a leopard. They are energetic, playful, and require plenty of exercise. They are also highly intelligent and enjoy interactive play.",
+        "life_span": "12-16",
+        "url": "pexels-ihsanaditya-1056251.jpg"
+    },
+    {
+        "id": "maine",
+        "name": "Maine Coon",
+        "temperament": "Gentle, Affectionate, Intelligent, Sociable",
+        "origin": "United States",
+        "description": "The Maine Coon is one of the largest domesticated cat breeds. They are known for their friendly and gentle nature, making them great companions. They have a thick, water-resistant coat that helps them in cold climates.",
+        "life_span": "12-15",
+        "url": "pexels-kmerriman-20787.jpg"
+    },
+    {
+        "id": "sphynx",
+        "name": "Sphynx",
+        "temperament": "Affectionate, Energetic, Social, Intelligent",
+        "origin": "Canada",
+        "description": "The Sphynx is a hairless breed known for its friendly and outgoing personality. They are warm to the touch and enjoy being the center of attention. Despite their lack of fur, they require regular grooming to manage oils on their skin.",
+        "life_span": "10-15",
+        "url": "pexels-pixabay-261621.jpg"
+    },
+    {
+        "id": "siam",
+        "name": "Siamese",
+        "temperament": "Lively, Affectionate, Intelligent, Vocal",
+        "origin": "Thailand",
+        "description": "Siamese cats are known for their striking blue almond-shaped eyes and their short coat with color points on the ears, face, paws, and tail. They are very vocal and enjoy interacting with their owners, often forming strong bonds.",
+        "life_span": "12-20",
+        "url": "pexels-tranmautritam-2194261.jpg"
+    }
+]

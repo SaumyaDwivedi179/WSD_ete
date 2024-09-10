@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Lovers App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cat Lovers App</h1>
+        <nav>
+            <a href="index.html" class="active">Home</a>
+            <a href="hero.html">About Us</a>
+        </nav>
+    </header>
+    
+    <main>
+        <!-- Sign Up Form Section -->
+        <section id="signup-form">
+            <h2>Sign Up for Cat Updates</h2>
+            <form id="form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required minlength="6">
+                
+                <label for="confirm-password">Confirm Password:</label>
+                <input type="password" id="confirm-password" name="confirm-password" required>
+                
+                <button type="submit">Sign Up</button>
+                <p id="form-message"></p>
+            </form>
+        </section>
+        
+        <!-- Cat Image Fetch Section -->
+        <section id="cat-image" style="display: none;">
+            <button id="fetch-button">Fetch Cat Image</button>
+            <div id="image-container">
+                <img id="cat-img" src="" alt="Random Cat Image" style="display: none;">
+                <p id="no-image" style="display: none;">No image available. Click 'Fetch Cat Image' to get one.</p>
+            </div>
+        </section>
+        <section id="breed-info" style="display: none;"></section>
+            <h2>Cat Breeds Information</h2>
+            <div id="breed-container"></div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Cat Lovers App</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
